@@ -1,0 +1,52 @@
+.center{
+  text-align: center;
+}
+.logo{
+  max-height: 100px;
+}
+.logo-text{
+  display: inline-block;
+  font-family: 'Satisfy', cursive;
+  color: red;
+}
+.nav{
+  border: none;
+}
+.white{
+  background-color: white;
+}
+
+.aqua{
+  color: aqua;
+}
+.links{
+  color: lightblue;
+  font-weight: bold;
+}
+.hero{
+  background-image: url(../img/hero.jpg);
+  height: 400px;
+  width: 100%;
+  text-align: center;
+}
+.font-white{
+  color: white;
+  text-align: center;
+}
+.r100{
+  padding-right: 250px;
+}
+.services{
+  text-align: center;
+}
+.gray{
+  background-color: gray;
+}
+.thumbnail{
+  display: inline-block;
+  max-height: 100px;
+}
+.product{
+  height: 80px;
+  width:80px;
+}
